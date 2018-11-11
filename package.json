@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dark-sky-api": "^0.6.32",
+    "moment": "^2.22.2",
     "react": "^16.6.1",
+    "react-document-title": "^2.0.3",
     "react-dom": "^16.6.1",
+    "react-google-maps-loader": "^4.2.3",
+    "react-google-places-suggest": "^3.5.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
