@@ -90,7 +90,7 @@ class App extends Component {
       ...this.state,
       input: {
         search: "",
-        value: formattedAddress
+        value: "",
       },
       location: {
         latitude: location.lat(),
